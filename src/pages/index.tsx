@@ -5,7 +5,7 @@ export default function Home() {
   return (
   <div>
     <SafeEnvironment/>
-    <Text>Atualizção</Text>
+    Atualização
   </div>
   )
 }
